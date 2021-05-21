@@ -18,5 +18,5 @@ Game begins in paused mode user clicks **Play** button to start the video game. 
 Players has 3 lives initially and each periods consists of 60 seconds. 
 
 # References
-Video source: https://www.youtube.com/watch?v=1wD2CdFlDaE&ab_channel=JarytBustardJarytBustard
+Video source: https://www.youtube.com/watch?v=1wD2CdFlDaE&ab_channel=JarytBustardJarytBustard <br>
             https://www.youtube.com/watch?v=-aS8a0_LmJc&ab_channel=EduonixLearningSolutions
